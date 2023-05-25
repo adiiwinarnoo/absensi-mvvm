@@ -1,0 +1,2 @@
+rootProject.name = "Absensi-with-MVVM"
+include ':app'

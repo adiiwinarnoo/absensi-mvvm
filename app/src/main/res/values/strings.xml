@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Absensi-with-MVVM</string>
+    <string name="welcome">Selamat datang di Aplikasi Absensi</string>
+    <string name="login">Silahkan Login terdahulu untuk bisa melakukan absensi</string>
+    <string name="masukan_nik">Masukan NIK</string>
+    <string name="masukan_password">Masukan Password</string>
+    <string name="login_button">Login</string>
+    <string name="lupa_password">Lupa Password?</string>
+    <string name="belum_punya_akun">Belum Punya Akun?</string>
+</resources>
